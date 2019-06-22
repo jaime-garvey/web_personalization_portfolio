@@ -6,6 +6,7 @@ Consider the role of a content or growth marketer, whose goal is to provide cont
 
 The marketer ultimately has a goal to inspire some action (e.g., buying a product, downloading a white paper, booking a demo). However, the ideal path that is intended for the user to follow in their exploration of a product or service may be far different than their actual path. 
 
+Consider these example page flows from the Google Merchandise Store to illustrate how similar exploratory paths can results in vasly different performance.
 
 ![Page Flow Example](https://jaime-garvey.github.io/images/portfolio/web/page_flow.gif)
 
