@@ -1,2 +1,2 @@
-# web_personalization_portfolio
-Reinforcement Learning Model for e-commerce product recommendations [Python]
+# ds_project_templates
+Data Science Project Repository Template
