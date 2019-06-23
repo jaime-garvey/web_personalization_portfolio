@@ -1,5 +1,16 @@
 # Web Personalization: E-Commerce Online Page Recomendations
 
+Table of Contents
+=================
+
+  * [Motivation](#Motivation)
+  * [Target Question](#Target-Question)
+  * [Data](#Data)
+  * [Methodology](#Methodology)
+  * [Web App (Flask)](#Web-App-Flask)
+  * [Impact](#Impact)
+
+
 ## Motivation
 
 Consider the role of a content or growth marketer, whose goal is to provide content for every stage of the buyer's journey. Some articles may promote awareness about your industry by answering high-level questions (e.g., What, How-type questions), while other content may appeal to the consideration phase (e.g., comparing solutions). 
