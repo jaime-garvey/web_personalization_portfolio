@@ -1,5 +1,7 @@
 # Web Personalization: E-Commerce Online Page Recomendations
 
+![Flask App Home Image](https://github.com/jaime-garvey/web_personalization_portfolio/blob/master/static/flask_app_home_image.png)
+
 Table of Contents
 =================
 
