@@ -4,10 +4,10 @@ Table of Contents
 =================
 
   * [Motivation](#Motivation)
-  * [Target Question](#target)
+  * [Target Question](#Target Question)
   * [Data](#Data)
   * [Methodology](#Methodology)
-  * [Web App (Flask)](#web)
+  * [Web App (Flask)](#Web App (Flask))
   * [Impact](#Impact)
 
 
@@ -37,7 +37,7 @@ We can think of the model in two major steps: (1) building a classifier to predi
 
 ![Data Overview](https://jaime-garvey.github.io/images/portfolio/web/web_methods.gif)
 
-## Web App (Flask)(#web)
+## Web App (Flask)
 
 Here is a preview into a web application that allows you to explore the GStore web page clusters as a network and visualize the optimal next-page recommendations.
 
