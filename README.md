@@ -4,10 +4,10 @@ Table of Contents
 =================
 
   * [Motivation](#Motivation)
-  * [Target Question](#Target Question)
+  * [Target Question](#Target-Question)
   * [Data](#Data)
   * [Methodology](#Methodology)
-  * [Web App (Flask)](#Web App (Flask))
+  * [Web App (Flask)](#Web-App-(Flask))
   * [Impact](#Impact)
 
 
