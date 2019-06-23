@@ -21,7 +21,7 @@ Consider these example page flows from the Google Merchandise Store to illustrat
 
 ![Page Flow Example](https://jaime-garvey.github.io/images/portfolio/web/page_flow.gif)
 
-## Target Question(#target)
+## Target Question (#target)
 
 How can we recommend relevant content to online visitors that maximizes business value (or in this case, page value)?
 
