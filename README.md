@@ -4,10 +4,10 @@ Table of Contents
 =================
 
   * [Motivation](#Motivation)
-  * [Target Question](#Target Question)
-  * [Data](#iData)
+  * [Target Question](#target)
+  * [Data](#Data)
   * [Methodology](#Methodology)
-  * [Web App (Flask)](#Web App (Flask))
+  * [Web App (Flask)](#web)
   * [Impact](#Impact)
 
 
@@ -21,7 +21,7 @@ Consider these example page flows from the Google Merchandise Store to illustrat
 
 ![Page Flow Example](https://jaime-garvey.github.io/images/portfolio/web/page_flow.gif)
 
-## Target Question
+## Target Question(#target)
 
 How can we recommend relevant content to online visitors that maximizes business value (or in this case, page value)?
 
@@ -37,7 +37,7 @@ We can think of the model in two major steps: (1) building a classifier to predi
 
 ![Data Overview](https://jaime-garvey.github.io/images/portfolio/web/web_methods.gif)
 
-## Web App (Flask)
+## Web App (Flask)(#web)
 
 Here is a preview into a web application that allows you to explore the GStore web page clusters as a network and visualize the optimal next-page recommendations.
 
