@@ -30,7 +30,7 @@ We can think of the model in two major steps: (1) building a classifier to predi
 
 Here is a preview into a web application that allows you to explore the GStore web page clusters as a network and visualize the optimal next-page recommendations.
 
-![Web App Demo](https://jaime-garvey.github.io/images/portfolio/web/web_app.gif | width=100)
+[Click Here for Web App Demo](https://jaime-garvey.github.io/images/portfolio/web/web_app.gif)
 
 ## Impact 
 
