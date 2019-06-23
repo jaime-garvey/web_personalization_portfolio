@@ -18,6 +18,22 @@ How can we recommend relevant content to online visitors that maximizes business
 
 One million user sessions from the Google Merchandise Store acquired using Big Query and a Google Analytics demo account.
 
+![Data Overview](https://jaime-garvey.github.io/images/portfolio/web/g_data.gif)
+
 ## Methodology
 
 We can think of the model in two major steps: (1) building a classifier to predict the next web page a visitor is likely to land on (relevant pages) and (2) a reinforcement learning model to help us recommend the optimal next page (pages that maximize the probability of landing on high-value pages).
+
+![Data Overview](https://jaime-garvey.github.io/images/portfolio/web/web_methods.gif)
+
+## Web App (Flask)
+
+Here is a preview into a web application that allows you to explore the GStore web page clusters as a network and visualize the optimal next-page recommendations.
+
+![Web App Demo](https://jaime-garvey.github.io/images/portfolio/web/web_app.gif)
+
+## Impact 
+
+Let's explore some of the impacts that these recommendations could have in terms of sales (page value) and engagement (time on page and bounce rate).
+
+![Impact](https://jaime-garvey.github.io/images/portfolio/web/web_impact.gif)
